@@ -1,8 +1,12 @@
-# Coding Round
+# My Submission (Cleared Round)
+![Submission](https://i.imgur.com/783iilL.png)
+
+
+# Instructions
 
 Hi there!
 
-Thank you for your interest in applying for the Web Developer position at DotProduct and welcome to the first round of the interview process. Here we’re looking to understand the candidate's thought process, coding ability, documentation and problem-solving skills.
+Thank you for your interest in applying for the Web Developer position at *** and welcome to the first round of the interview process. Here we’re looking to understand the candidate's thought process, coding ability, documentation and problem-solving skills.
 
 You have to submit your designs before 30th November 12:00 pm to hr@dotproduct.in
 
